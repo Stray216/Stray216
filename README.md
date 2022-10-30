@@ -1,5 +1,11 @@
 ## 👋 Hi, I'm Stray
 ```java
+while( isAlive() ) {
+	if( !success() ) continue;
+	return this.SUCCESS;
+}
+```
+```java
 System.out.println("Hello GitHub!");
 ```
 ## 👉 Links
